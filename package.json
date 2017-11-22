@@ -1,0 +1,26 @@
+{
+  "name": "chp",
+  "version": "1.0.0",
+  "description": "web client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhmad-sa/chp.git"
+  },
+  "keywords": [
+    "chp",
+    "altcoin",
+    "miner",
+    "websocket",
+    "server",
+    "client"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^3.2.0"
+  }
+}
